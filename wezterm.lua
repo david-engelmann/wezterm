@@ -45,7 +45,7 @@ config.background = {
     attachment = { Parallax = 0.1 },
   },
   {
-    source = {File={path="C:\\Users\\David Engelmann\\.config\\wezterm\\foggy_train.jpg"}},
+    source = {File={path="C:\\Users\\David Engelmann\\.config\\wezterm\\sand_dunes.jpg"}},
     --opacity = .95,
 --    horizontal_align = "Center",
 --    vertical_align = "Middle",
